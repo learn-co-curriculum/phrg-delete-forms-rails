@@ -13,3 +13,5 @@
 ## Notes
 
 Goal is to get them to understand how the DELETE actions are built.
+
+<a href='https://learn.co/lessons/delete-forms-rails' data-visibility='hidden'>View this lesson on Learn.co</a>
