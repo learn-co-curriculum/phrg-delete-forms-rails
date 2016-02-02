@@ -64,9 +64,10 @@ caligula@rome-circa-50-AD.com
 ```
 
 Enhance!
-
+```html
 > <form accept-charset="UTF-8" action="/people/1" method="**post**">
 >   <input name="_method" type="hidden" value="**delete**" />
+```
 
 What's going on? Why the extra input?
 
