@@ -149,7 +149,7 @@ The `data-confirm` attribute and the `data-method` attribute rely on some JavaSc
 
 `data-method` will "submit" a `DELETE` request, as if a form had been submitted. It will use `GET` (the default method used by all browsers for HTML links) if the user has JavaScript disabled.
 
-`data-method` pops up a confirmation window before the link is followed, allowing the user to make sure they're ready to delete someone forever (what a decision!).
+`data-confirm` pops up a confirmation window before the link is followed, allowing the user to make sure they're ready to delete someone forever (what a decision!).
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/delete-forms-rails' title='DELETE Forms and Requests'>DELETE Forms and Requests</a> on Learn.co and start learning to code for free.</p>
