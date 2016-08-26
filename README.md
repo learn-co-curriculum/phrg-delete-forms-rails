@@ -1,6 +1,6 @@
 # DELETE Forms and Requests
 
-So far, we've worked with two pieces of the CRUD puzzle:
+So far, we've worked with three pieces of the CRUD puzzle:
 
 - **C**REATING records, using HTTP `POST` requests.
 - **R**EADING records, using HTTP `GET` requests.
