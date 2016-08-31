@@ -121,7 +121,6 @@ As shown, you have to go to a user's `show` page to delete them. What if we want
 <% @people.each do |person| %>
 <div class="person">
   <span><%= person.name %></span>
-  |
   <%= link_to "Delete", person, method: :delete, data: { confirm: "Really?" } %>
 </div>
 <% end %>
