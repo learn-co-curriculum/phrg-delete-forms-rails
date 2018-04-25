@@ -3,3 +3,4 @@ tags:
 languages:
   - language1
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/delete-forms-rails.git
