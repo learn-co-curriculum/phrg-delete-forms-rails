@@ -140,4 +140,9 @@ The `data-confirm` attribute and the `data-method` attribute rely on some JavaSc
 
 `data-confirm` pops up a confirmation window before the link is followed, allowing the user to make sure they're ready to delete someone forever (what a decision!).
 
+
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-delete-forms-rails/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-delete-forms-rails/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG DELETE Forms and Requests</p>
